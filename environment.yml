@@ -1,0 +1,21 @@
+name: Evaluator
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - pandas
+      - numpy
+      - requests
+      - sentence-transformers
+      - torch
+      - scikit-learn
+      - ollama
+      - deepeval
+      - python-dotenv
+      - pydantic
+      - pytest
+      - pytest-asyncio
+      - aiohttp

@@ -1,0 +1,21 @@
+row_id,intent_similarity,token_ratio,intent_preserved,added_value,over_enhanced,hallucination,factual_correct,clarity_score,action,reason
+0,0.7485,29.18,True,True,False,False,,0.9,accept,"The enhanced prompt provides more specific guidance, including the required level of detail and expected outcome, making it easier for the presenter to create a comprehensive and engaging presentation."
+1,0.0555,3.6,True,True,False,False,True,0.9,accept,"The enhanced prompt maintains the core user goals, adds significant value through a clearer and more detailed specification, and does not introduce any factual inaccuracies or unnecessary constraints."
+2,0.948,1.41,False,False,True,True,False,0.0,reject,Invalid JSON from evaluator
+3,0.78,17.04,True,True,False,False,,0.9,accept,"The enhancement provides a clear and structured approach to building the web application, addressing various aspects such as features, user data handling, interface design, security, and performance metrics."
+4,0.864,5.32,True,True,False,False,,0.9,accept,"The enhanced prompt provides a clearer and more detailed description of the desired track, including specific instruments, vocal styles, and tempo transitions. It also mentions relevant references to help guide the composition process."
+5,0.6362,26.62,False,False,True,True,False,0.0,reject,Invalid JSON from evaluator
+6,0.7795,21.57,True,True,False,False,,0.9,accept,"Enhanced prompt clarifies expectations and provides a clear outline of the required content, while preserving the core user goals."
+7,0.3573,60.0,False,False,True,True,False,0.0,reject,Invalid JSON from evaluator
+8,0.7072,3.19,True,True,False,False,,0.9,accept,"The enhancement provides a clear and concise description of the scene, visuals, camera movement, and audio, making it easier to understand and execute the vision. The added details enhance the realism and premium quality feel without altering the original intent."
+9,0.7314,9.13,True,True,False,False,,0.95,accept,"The enhanced prompt provides a clear and detailed specification of the presentation's requirements, ensuring that all core user goals are preserved and expanded upon."
+10,0.7855,7.55,True,True,False,False,,0.85,accept,"Clear and comprehensive pitch with added value, no over-enhancement or hallucination"
+11,0.8442,1.29,False,False,True,True,False,0.0,reject,Invalid JSON from evaluator
+12,0.8299,2.08,True,True,False,False,,0.9,accept,"The enhanced prompt provides more clarity and structure, while preserving the core user goals. The additional details enhance the understanding of the design requirements."
+13,0.6278,18.42,True,True,False,False,,0.9,accept,"The enhanced prompt provides a clear and structured format for the question paper, preserving all original content while improving readability."
+14,0.3613,14.6,True,True,False,False,,0.9,accept,Clearly outlines the requirements and provides a structured approach to the response.
+15,0.5562,27.9,True,True,False,False,,0.85,accept,"The enhanced prompt provides a clear and detailed description of the scene, including the environment, lighting, and style, which adds significant value to the original request. The only potential drawback is that it may be slightly over-verbose, but overall it effectively conveys the desired image."
+16,0.8364,17.27,True,True,False,False,,0.9,accept,"The enhanced prompt provides a detailed and structured plan for creating a professional LinkedIn account, addressing all aspects of online presence and marketing."
+17,0.788,19.38,True,True,False,False,,0.95,accept,"The enhanced prompt clarifies the requirements and expectations of the guide, providing a more structured and detailed outline."
+18,0.7808,22.55,True,True,False,False,,0.9,accept,"The enhanced prompt provides a clear and structured approach to creating the PPT, with a well-defined format and content outline."
+19,0.6887,16.53,True,True,False,False,,0.95,accept,"The enhancement provides detailed explanations, examples, and practical guidelines, making the prompt more comprehensive and useful for creating a high-quality PPT."
