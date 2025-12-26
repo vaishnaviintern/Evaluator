@@ -464,31 +464,11 @@ print(f"Median Token Ratio: {df['token_ratio'].median():.1f}x")
 
 ---
 
-## 📄 License
 
-This evaluation system is part of the ThinkVelocity prompt enhancement project.
-
----
-
-## 🙏 Acknowledgments
-
-- **Ollama** for local LLM inference
-- **sentence-transformers** for semantic similarity
-- **LLM-as-a-judge** methodology from OpenAI/Anthropic research
-
----
-
-## 📞 Support
-
-For questions or issues:
-1. Check **Troubleshooting** section
-2. Review **Common Issues** in output CSV
-3. Open an issue with sample data
 
 ---
 
 **Version:** 3.0 (Media-Aligned Final)  
 **Last Updated:** December 24, 2025  
 **Status:** ✅ Production Ready
-#   E v a l u a t o r  
- 
+#
